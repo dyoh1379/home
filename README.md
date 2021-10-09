@@ -3,7 +3,6 @@
 [![](https://img.shields.io/badge/youtube-괴다-red.svg?logo=youtube)](https://www.youtube.com/c/괴다)
 ___
 집을 저장하여 원할때 집으로 순간이동합니다.
-___
 |명령어|설명|
 |:---|:---|
 |/sethome|집을 설정합니다.|
